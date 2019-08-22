@@ -20,7 +20,7 @@ header {
 
 
 h1 {
-    background-color: blue;
+    background-color: #4aaaaa;
     height: 30px;
     padding: 20px 10px;
     float: left;
@@ -73,6 +73,55 @@ footer {width: 100%;
 h3 {
     margin: 5px 5px 5px;
     font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+}
+.button {
+    background-color: #4aaaaa;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 14px 2px;
+    cursor: pointer;
+    width: 55px;
+    padding: 8px 22px;
+
+}
+
+textarea {
+    resize: vertical;
+    width: 100%;
+}
+
+.imgcontainer {
+    height: 194px;
+    width: 259px;
+    float: left;
+    padding: 20px;
+    margin: 22px 41px 13px 53px;
+    position: relative
+}
+
+.portimages {
+    height: 194px;
+    width: 250px;
+    position: relative;
+
+
+}
+
+.bannertext {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: inherit;
+    background-color: #4aaaaa;
+    color: white;
+    text-align: center;
+    position: absolute;
+
+    
 
 
 }
